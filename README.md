@@ -14,3 +14,5 @@ which means his ROUND score as well as his GLOBAL score is lost. After that, it'
 - Before starting the game, a winning point must have to be chosen.
 
 - The first player to reach specified winning points on GLOBAL score wins the game
+
+- The site is hosted at https://apurbostarry.github.io/Dice-Game1/index.html
